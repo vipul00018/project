@@ -1,0 +1,233 @@
+h1{
+    text-align: center;
+}
+.heading{
+    margin-right: 15cm;
+    font-size: 21px;
+    
+}
+li{
+    display: inline;
+    margin-right: 2cm;
+    float: right;
+    font-size: 20px
+}
+.J{
+    background-color: greenyellow;
+    color:white;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    size: 20px;
+  }
+  li:hover{
+    cursor: pointer;
+  }
+  a{
+    color: #000;
+  }
+  .slider3{
+    margin-left: 1cm;
+    margin-right:1cm ;
+    position: relative;
+    
+  }
+  .center {
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    size: 50px;
+  }
+  .doctor{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    size: 30px;
+  }
+  .imgg{
+    opacity: 100%;
+  }
+  button{
+    background-color: blue;
+    color: aliceblue;
+    block-size: 50px;
+    border-radius: 10px;
+    border: 0px;
+    padding: 20px;
+    margin-bottom: 70px;
+    margin-right: 3cm;
+  }
+  button:hover{
+    background-color: red;
+    cursor: pointer;
+  }
+  .slide2{
+    margin-left: 1cm;
+    margin-right:1cm ;
+    position: relative;
+    
+  }
+  .text{
+  position: absolute;
+  top: 10%;
+  width: 80%;
+  text-align: left;
+  font-size: 80px;
+  text-indent:2cm;
+  }
+.H{
+    background-color: #000;
+    color: beige;
+    border-radius: 10px;
+
+}
+.c{position: absolute;
+    width: 80%;
+    font-size: 80px;
+    text-indent:2cm;
+}
+.lorem{
+    position: absolute;
+  top: 150%;
+  width: 100%;
+  text-align: left;
+  font-size: 22px;
+  margin-left: 3cm;
+}
+.author{
+    position: absolute;
+    size: 20cm;
+    margin-left: 3cm;
+    border-radius: 50px;
+    top: 180%;
+
+}
+.neil{
+    position: absolute;
+    size: 40px;
+    margin-left: 6cm;
+    top: 177%;
+    font-size: xx-large;
+}
+h2{
+    margin-left: 4.5cm;
+    font-size: xxx-large;
+    margin-bottom: 2px;
+}
+div.gallery{
+    border: 1px  #ccc;
+}
+div.gallery img {
+    width: 400px;
+}
+  div.desc {
+    padding: 20px;
+    text-align: left;
+    background-color: #f9f4f4;
+  } 
+
+  
+  .responsive {
+    padding: 0px 15px;
+    float: left;
+    width: 26.39%;
+  }
+  div.team{
+    margin-left: 4cm;
+  }
+  .name{
+    font-size: 24px
+  }
+  .material-symbols-outlined{
+    font-size: 20px;
+  }
+  .appoinment{
+    margin-left: 3cm;
+  }
+  h3{
+    text-align: right;
+    margin-top: 3cm;
+
+  }
+  .form{
+    top: 320%;
+    position: absolute;
+    font-size: 50px;
+    margin-left: 22cm;
+  }
+  .f{
+    top: 350%;
+    position: absolute;
+    font-size:30px;
+    margin-left: 22cm;
+  }
+  input[type=text], select {
+    width: 260px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #fcfbfb;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #eee9e9;
+  }
+  .EE{
+    top: 0%;
+    position:absolute;
+    font-size:30px;
+    margin-left: 8cm;
+  }
+  .ff{
+      top: 20%;
+        position:absolute;
+        font-size:30px;
+        margin-left: 8cm;
+  }
+  input[type=date]{ width: 260px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #fcfbfb;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #eee9e9;
+
+  }
+  input[type=phoneNo]{
+    width: 565px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #fcfbfb;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #eee9e9;
+  }
+  textarea{ 
+    border-color: #eee9eb;
+    background-color: #eee9eb;
+  }
+  
+input[type=button]{
+    background-color: rgb(127, 187, 37);
+    padding: 10px;
+    width: 100%;
+    color: azure;
+    font-size: large;
+    font-weight: 400%;
+    border-radius: 6px;
+    border-color: greenyellow;
+}
+input[type=button]:hover{
+    background-color: firebrick;
+    cursor: pointer;
+}
